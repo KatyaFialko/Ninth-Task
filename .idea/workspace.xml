@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="553232ef-84dd-4526-bf18-ef877e356c2b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/yoga.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/._index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/._server.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/css/._style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/left-arrow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/right-arrow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/letter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/main_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/massage.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/modal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/slider_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/slider_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/slider_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/slider_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sunrise.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sunset.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/yoga.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logo/facebook-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logo/instagram-social-network-logo-of-photo-camera.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logo/pinterest-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logo/twitter-logo-silhouette.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1TTjqcwv3xZpftAx8v1FNrwZEey" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="553232ef-84dd-4526-bf18-ef877e356c2b" name="Default Changelist" comment="" />
+      <created>1573557010637</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573557010637</updated>
+      <workItem from="1573557014203" duration="3134000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
